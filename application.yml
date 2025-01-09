@@ -1,3 +1,4 @@
-spring:
-      application:
-             name:  GIT-CONFIG-SERVER
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
